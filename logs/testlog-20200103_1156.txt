@@ -1,0 +1,3 @@
+jan 03, 2020 11:56:24 AM com.acaj.example.chapter.one.TestClass main
+INFORMAÇÕES: 
+This is a logged information message.
